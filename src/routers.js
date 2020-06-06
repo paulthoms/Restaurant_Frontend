@@ -1,8 +1,3 @@
-import Home from './pages/Home/Home';
-import Posts from './pages/Posts/Posts';
-import PostID from './pages/PostID/PostID';
-import Music from './pages/Music/Music';
-import Sports from './pages/Sports/Sports';
 import Dish from './pages/Dish/Dish';
 import AddDish from './pages/AddDish/AddDish';
 
